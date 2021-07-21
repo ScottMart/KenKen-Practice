@@ -23,8 +23,8 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(4 1fr);
-  width: 500px;
-  height: 500px;
+  width: 550px;
+  height: 550px;
 }
 
 .grid-items {
@@ -32,7 +32,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(253, 248, 248);
+  background-color: rgb(187, 187, 187);
 }
 
 #box1,
